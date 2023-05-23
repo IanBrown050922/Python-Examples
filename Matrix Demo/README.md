@@ -1,4 +1,4 @@
-# READ
+# READ ME
 
 This class models matrices and their functionality in math (linear algebra)
 

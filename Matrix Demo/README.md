@@ -6,4 +6,4 @@ It's greatest capabilities are multiplying any two matrices with compatible dime
 It can also row reduce matrices. Users have access to functions for performing specific row operations on matrices, but there are also functions for taking matrices to row echelon form and reduced row echelon form using Gaussian Elimination.
 Finally, it can find inverses of invertible matrices of any size.
 
-More will be added
+Likely, more will be added.

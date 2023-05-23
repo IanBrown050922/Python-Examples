@@ -1,6 +1,6 @@
 # READ ME
 
-This class models matrices and their functionality in math (linear algebra)
+This class models matrices and their functionality in linear algebra
 
 It's greatest (but not only) capabilities are the following.
 

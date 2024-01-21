@@ -1,10 +1,3 @@
 # READ ME
 
-This class models matrices and their functionality in linear algebra
-
-This class provides functionality for multiplying any two matrices with compatible dimensions (e.g., a 5 by 4 matrix with a 4 by 7 matrix).
-It can also row reduce matrices. Users have access to functions for performing specific row operations on matrices, but there are also functions for taking matrices to row echelon form and reduced row echelon form using Gaussian Elimination.
-There is also a function for finding the determinant of any square matrix.
-Finally, it can find inverses of invertible matrices of any size.
-
-Likely, more will be added.
+This class models matrices and their functionality in linear algebra, including multiplying matrices with compatable dimensions, including non-square matrices, row reducing matrices, performing individual row operations, finding the determinant, and finding the inverse of invertible matrices.
